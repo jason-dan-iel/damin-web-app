@@ -92,7 +92,7 @@ function DamMap({ dams }) {
               attribution="&copy; OpenStreetMap contributors"
             />
             {filteredDams.map((dam) => {
-              const lat = parseFloat(dam["Latitude"]);
+              const lat = parseFloat(dam["Latitude "]);
               const lng = parseFloat(dam["Longitude"]);
               if (!lat || !lng) return null;
               return (

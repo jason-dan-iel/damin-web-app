@@ -9,6 +9,7 @@ function App() {
 
   useEffect(() => {
     readExcelFile(process.env.PUBLIC_URL + "/data.xlsx").then((rows) => {
+      console.log("Rows:", rows);
       setDams(rows);
       setLoading(false);
     });
