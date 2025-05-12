@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/damin-web-app/static/css/main.43ca53b7.css",
+    "main.js": "/damin-web-app/static/js/main.c4cc0fe8.js",
+    "index.html": "/damin-web-app/index.html",
+    "main.43ca53b7.css.map": "/damin-web-app/static/css/main.43ca53b7.css.map",
+    "main.c4cc0fe8.js.map": "/damin-web-app/static/js/main.c4cc0fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ca53b7.css",
+    "static/js/main.c4cc0fe8.js"
+  ]
+}
